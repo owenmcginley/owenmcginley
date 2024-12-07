@@ -4,7 +4,7 @@
 ---
 
 ## 🧑‍🎓 About Me  
-I'm a senior at **The George Washington University**, pursuing dual degrees:  
+I'm a junior at **The George Washington University**, pursuing two majors:  
 - **B.S. in Data Science** (Geospatial Data Science Domain)  
 - **B.A. in Spanish & Latin American Languages, Literatures & Cultures**  
 - Minor in Geographic Information Systems (GIS)  
