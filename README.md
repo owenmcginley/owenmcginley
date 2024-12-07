@@ -1,9 +1,9 @@
 ## About Me  
 Junior at **The George Washington University**  
-- **B.S. in Data Science** (Geospatial Concentration)  
-- **B.A. in Spanish & Latin American Studies**  
+- **B.S. in Data Science: Geospatial Data Science Domain**
+- **B.A. in Spanish & Latin American Languages, Literatures and Cultures**  
 - Minor in GIS | Graduating **Dec 2025**  
----
+---  
 ## Skills  
 - **Languages:** R, Python, SQL, NoSQL (MongoDB)  
 - **Frameworks & Libraries:** `dplyr`, `ggplot2`, `shiny`, `leaflet`, `pandas`, `geopandas`, `scikit-learn`  
